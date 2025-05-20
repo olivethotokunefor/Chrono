@@ -12,6 +12,7 @@ import { CartProvider } from "./components/CartContext";
 import Reviews from "./components/Reviews";
 import Categories from "./components/Categories";
 
+
 function AnimatedRoutes() {
   const location = useLocation();
   return (
